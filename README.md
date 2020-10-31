@@ -1,5 +1,7 @@
 # bootcamp-group_project-1
 
+Group Team Members: Anna Rischitelli, Priya Anulacharam, Nataliia Sokolova, Vincent Durcan, and Shadia Duery
+
 Business Questions:
 
 By city size in the West Coast, which cities had the highest and lowest rates per capita of covid19
