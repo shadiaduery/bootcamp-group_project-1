@@ -4,8 +4,8 @@ Group Team Members: Anna Rischitelli, Priya Anulacharam, Nataliia Sokolova, Vinc
 
 Business Questions:
 
-By city size in the West Coast, which cities had the highest and lowest rates per capita of covid19
 Do rates of covid19 differ based on local policies implemented (where do we get data of locked down period)
+
 
 Steps for Project Completion:
 
@@ -15,6 +15,7 @@ Datasources:
 
 Data Analysis:
 
+- Compare the groups (before and after lockdown)
 - we will compare data by county from two States that we know applied different Covid19 lockdown policies
 - CA and TX
 - we wil compare covid19 infections by country by populations bins
