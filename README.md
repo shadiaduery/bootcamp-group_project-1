@@ -16,13 +16,29 @@ Datasources:
 Data Analysis:
 
 - Compare the groups (before and after lockdown)
-- we will compare data by county from two States that we know applied different Covid19 lockdown policies
+- We will compare data by county from two States that we know applied different Covid19 lockdown policies
 - CA and TX
-- we wil compare covid19 infections by country by populations bins
-- we will include a heat map of counties by cases
-- timeframe: January - October
-- rate of infection (covid cases per day)
-- total number of covid19 cases per State per month
+- We wil compare covid19 infections by country by populations bins
+- We will include a heat map of counties by cases
+- Timeframe: January - October
+- Rate of infection (covid cases per day)
+- Total number of covid19 cases per State per month
+
+Requirements:
+
+1) Create a dataframe that is separated by county and it is during our timeframe (Jan-Oct) (Nataliia)
+2) Line graph, Time vs Covid cases (new-daily-cases) for both states (Priya) 
+3) Line graph, Time vs Covid cases (total cases) for both states (Priya)
+4) Create a dataframe of grouped bins of population (CA) (Shadia)
+5) Create a dataframe of grouped bins of population (TX) (Shadia)
+6) Use 4) and 5), create a bar chart for TX and CA that total case per population bin (Shadia)
+7) Scatter plot for small county population for TX and CA (Anna)
+8) Scatter plot for medium county population for TX and CA (Anna)
+9) Scatter plot for large county population for TX and CA (Anna)
+10) Identify locked down dates per state (Nataliia)
+11) One heat maps by county with total number of covid cases (Nataliia)
+12) Find a correlation or linear regression, peak dates, based on what are they correlated (pop density) (Vincent)
+
 
 
 List of Visualizations:
