@@ -26,9 +26,11 @@ Data Analysis:
 
 Visualizations:
 
-Heat Map 
-Scatter plot for CA - Population Density vs. COVID Cases per Capita w/ linear regression 
-SCatter plot for TX - Population Density vs. COVID Cases per Capita w/ linear regression
+- Heat Map 
+- Scatter plot to show log relationships for Total Cases for CA & TX vs. Time
+- Line graph of New Daily Cases for CA & TX vs. Time
+- Scatter plot for CA - Population Density vs. COVID Cases per Capita w/ linear regression 
+- Saatter plot for TX - Population Density vs. COVID Cases per Capita w/ linear regression
 
 Tools:
 
