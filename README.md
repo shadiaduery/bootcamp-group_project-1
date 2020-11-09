@@ -6,7 +6,7 @@ Business Questions:
 Do rates of Covid19 differ based on state policies implemented?
 
 Hypothesis:
-Stronger policies reduce the rated of coivd19 spread.
+Stronger policies reduce the rated of Covid19 spread.
 
 
 
