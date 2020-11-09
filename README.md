@@ -1,6 +1,6 @@
 # bootcamp-group_project-1
 
-Group Team Members: Anna Rischitelli, Priya Anulacharam, Nataliia Sokolova, Vincent Durcan, and Shadia Duery
+Group Team Members: Anna Rischitelli, Priya Arunachalam, Nataliia Sokolova, Vincent Durcan, and Shadia Duery
 
 Business Questions:
 Do rates of Covid19 differ based on state policies implemented?
