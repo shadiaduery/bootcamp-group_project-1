@@ -1,4 +1,4 @@
-# bootcamp-group_project-1
+# Covid19 Policy Implementation Comparison (TX vs. CA) 
 
 Group Team Members: Anna Rischitelli, Priya Arunachalam, Nataliia Sokolova, Vincent Durcan, and Shadia Duery
 
@@ -6,9 +6,7 @@ Business Questions:
 Do rates of Covid19 differ based on state policies implemented?
 
 Hypothesis:
-Stronger policies reduce the rated of Covid19 spread.
-
-
+Stronger policies reduce the rate of spread of Covid19.
 
 Datasources:
 
